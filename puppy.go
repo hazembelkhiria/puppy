@@ -19,3 +19,7 @@ func BigBark() string {
 func BigBarks() string {
 	return dogs.WhenGownUp(Barks())
 }
+
+func Firsttag() string {
+	return "this the first tag v1.0.0"
+}
